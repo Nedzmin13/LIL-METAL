@@ -1,0 +1,5 @@
+# robots.txt per LIL METAL
+User-agent: *
+Allow: /
+
+Sitemap: https://www.lilmetal.it/sitemap.xml
